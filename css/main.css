@@ -1,0 +1,15 @@
+/* Base */
+@import "./base/reset.css";
+@import "./base/base.css";
+
+/* Sections */
+@import "./section/header.css";
+@import "./section/about.css";
+@import "./section/request.css";
+@import "./section/services.css";
+@import "./section/portfolio.css";
+@import "./section/question.css";
+@import "./section/partners.css";
+@import "./section/reviews.css";
+@import "./section/contacts.css";
+@import "./section/footer.css";
